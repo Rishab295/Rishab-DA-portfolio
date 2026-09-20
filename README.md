@@ -126,8 +126,5 @@ If you'd like to connect with me regarding opportunities, projects, or collabora
 
 ⭐ If you find my projects interesting, feel free to explore the repository and connect with me!
 
-```
 
- make the GitHub repository look much more like a **professional Data Analyst portfolio**, rather than just a React project repository.
-```
 
