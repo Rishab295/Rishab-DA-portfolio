@@ -128,19 +128,6 @@ If you'd like to connect with me regarding opportunities, projects, or collabora
 
 ```
 
-### One thing I'd change
-
-Your current GitHub README can be **much more useful for recruiters** if we add:
-
-- Your actual **Power BI projects**
-- Your actual **Python/Data Science projects**
-- Project screenshots
-- Technologies used for each project
-- Resume download button
-- LinkedIn profile
-- GitHub profile
-- A proper **Projects** section with clickable links
-
-That would make the GitHub repository look much more like a **professional Data Analyst portfolio**, rather than just a React project repository.
+ make the GitHub repository look much more like a **professional Data Analyst portfolio**, rather than just a React project repository.
 ```
 
