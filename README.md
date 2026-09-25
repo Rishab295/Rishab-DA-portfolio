@@ -1,5 +1,12 @@
+Absolutely. Based on your **current GitHub repository structure and the uploaded banner being in the root**, here is the complete `README.md`.
+
+**Important:** this version uses your current filename exactly, so you don't need to create an `assets` folder or rename anything.
+
+Copy-paste the entire thing into `README.md`:
+
+````markdown
 <p align="center">
-  <img src="./assets/banner.png" alt="Rishab Das - Data Analyst Portfolio" width="100%">
+  <img src="./Rishab%20Das%20-%20Data%20Analyst%20Portfolio.png" alt="Rishab Das - Data Analyst Portfolio" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Rishab Das 👋</h1>
@@ -9,69 +16,90 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolioforrishab.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/Rishab295">💻 GitHub</a>
+  <a href="https://portfolioforrishab.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Rishab295">
+    <img src="https://img.shields.io/badge/GitHub-Rishab295-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science graduate based in Pune, India**, interested in turning raw data into meaningful insights and practical solutions.
+I'm a **Data Science graduate based in Pune, India**, passionate about working with data and building practical technology solutions.
 
-I work with **Python, SQL, Excel, Power BI, Tableau, and Machine Learning** to analyze data, build dashboards, and develop data-driven projects.
+I enjoy transforming raw data into meaningful insights through **data analysis, visualization, dashboards, and machine learning**.
 
-I'm currently focused on strengthening my skills in **Data Analytics, Data Science, Machine Learning, and AI** while building real-world projects.
+My current areas of focus include:
+
+- 📊 Data Analytics
+- 🐍 Python
+- 🗄️ SQL
+- 📈 Power BI
+- 📉 Tableau
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🌐 Web Development
+- 🔎 RAG & AI Applications
+
+I believe in learning by building real-world projects and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 📊 Data Analytics
+### 🐍 Programming & Data
 
-* Python
-* SQL
-* Excel
-* Pandas
-* NumPy
-* Data Cleaning
-* Exploratory Data Analysis
-* Statistical Analysis
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-### 📈 Data Visualization
+### 📊 Data Analytics & Visualization
 
-* Power BI
-* Tableau
-* Matplotlib
-* Seaborn
-* Dashboard Development
-* Data Storytelling
+- Power BI
+- Tableau
+- Microsoft Excel
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistical Analysis
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
 
 ### 🤖 Machine Learning
 
-* Scikit-learn
-* Linear Regression
-* Decision Trees
-* Random Forest
-* Support Vector Machines
-* Data Preprocessing
-* Model Evaluation
+- Linear Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machines
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Exploratory Data Analysis
 
-### 🌐 Development
+### 🌐 Web Development
 
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Node.js
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Streamlit
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Streamlit
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Netlify
+- Firebase
 
 ---
 
@@ -79,35 +107,82 @@ I'm currently focused on strengthening my skills in **Data Analytics, Data Scien
 
 ### 📊 Data Analytics Projects
 
-Data analysis projects using Python, Pandas, SQL, Excel, and visualization tools to identify trends and generate insights.
+Projects focused on analyzing datasets using Python, Pandas, SQL, Excel, and visualization tools.
+
+Key areas include:
+
+- Data cleaning
+- Exploratory Data Analysis
+- Statistical analysis
+- Business insights
+- Data visualization
+- Reporting
+
+---
 
 ### 📈 Power BI Dashboards
 
-Interactive dashboards designed to analyze business data, KPIs, sales performance, and other real-world datasets.
+Interactive dashboards designed to transform business data into understandable visual insights.
+
+Projects include:
+
+- KPI dashboards
+- Sales analysis
+- Business performance analysis
+- Interactive filters and slicers
+- DAX-based calculations
+- Data modeling
+
+---
 
 ### 🤖 Machine Learning Projects
 
 Machine learning projects involving data preprocessing, exploratory analysis, model development, and evaluation.
 
+Technologies include:
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+---
+
 ### 🌱 AI Landscape Planning Assistant
 
-An AI-powered landscape planning application built with **Python, Streamlit, RAG, and AI**.
+An AI-powered application designed to assist with landscape planning and estimation.
 
-The application is designed to analyze site information and assist with:
+The application combines:
 
-* Landscape planning
-* Plant recommendations
-* Landscape and hardscape suggestions
-* Irrigation planning
-* BOQ generation
-* Cost estimation
-* Landscape reports
+- Python
+- Streamlit
+- AI
+- RAG
+- Plant data
+- Image analysis
+- BOQ generation
 
-### 🌐 Portfolio Website
+The system is designed to help with:
 
-A personal portfolio website built to showcase my projects, technical skills, and experience.
+- 🌿 Plant recommendations
+- 🏡 Landscape planning
+- 💧 Irrigation suggestions
+- 🪨 Hardscape recommendations
+- 📋 BOQ generation
+- 💰 Cost estimation
+- 📑 Landscape reports
+- 🖼️ Landscape visualization
 
-🔗 **Live Website:**
+---
+
+### 🌐 Personal Portfolio Website
+
+My personal portfolio website showcasing my projects, technical skills, and work.
+
+🔗 **Live Portfolio**
+
 https://portfolioforrishab.netlify.app/
 
 ---
@@ -118,22 +193,23 @@ https://portfolioforrishab.netlify.app/
 
 **Symbiosis, Pune**
 
-Focused on:
+Areas of study include:
 
-* Data Science
-* Machine Learning
-* Statistics
-* Database Management
-* Python Programming
-* Data Analytics
-* Artificial Intelligence
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Statistics
+- Database Management
+- Python Programming
+- Data Analytics
+- Web Technologies
 
 ---
 
 ## 📜 Certifications
 
-* **Agentic AI Certified Foundations Associate**
-* **Deloitte Data Analytics Job Simulation**
+- **Agentic AI Certified Foundations Associate**
+- **Deloitte Data Analytics Job Simulation**
 
 ---
 
@@ -142,28 +218,33 @@ Focused on:
 ```text
 Python          ████████████████████
 SQL             ████████████████████
-Power BI        ███████████████████
 Pandas          ████████████████████
 NumPy           ███████████████████
+Power BI        ███████████████████
 Tableau         █████████████████
+Excel           █████████████████
+Scikit-learn    █████████████████
 Machine Learning
-Scikit-learn
-Excel
-React.js
 Streamlit
+React.js
 Git & GitHub
-```
+Firebase
+````
 
 ---
 
-## 📌 Currently Working On
+## 🚀 Currently Working On
 
-* 📊 Data Analytics projects
-* 🤖 Machine Learning projects
-* 🧠 AI & RAG applications
-* 🌱 AI-powered Landscape Planning
-* 📈 Power BI & Tableau dashboards
-* 🐍 Python data analysis
+I'm currently focused on building practical projects around:
+
+* 📊 Data Analytics
+* 🤖 Machine Learning
+* 🧠 Artificial Intelligence
+* 🔎 Retrieval-Augmented Generation
+* 🌱 AI-powered applications
+* 📈 Power BI dashboards
+* 🐍 Python data projects
+* 🌐 Full-stack applications
 
 ---
 
@@ -173,40 +254,77 @@ I'm interested in opportunities related to:
 
 * Data Analyst
 * Junior Data Analyst
-* Business/Data Analytics
+* Business Analyst
 * Data Science
 * Machine Learning
 * AI & Data Applications
 
 ---
 
-## 🌐 Connect With Me
+## 📊 What I Like Working With
+
+```text
+Data        →     Clean     →     Analyze
+                              ↓
+                         Visualize
+                              ↓
+                          Insights
+                              ↓
+                         Decisions
+```
+
+I enjoy working across the complete data workflow — from collecting and cleaning data to analysis, visualization, and communicating insights.
+
+---
+
+## 🌐 Portfolio
+
+### Explore my work
+
+🔗 **[https://portfolioforrishab.netlify.app/](https://portfolioforrishab.netlify.app/)**
+
+The portfolio contains:
+
+* Projects
+* Skills
+* Certifications
+* Data Analytics work
+* Machine Learning projects
+* Contact information
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://portfolioforrishab.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Rishab295">
-    <img src="https://img.shields.io/badge/GitHub-Rishab295-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+
+<a href="https://portfolioforrishab.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge" alt="Portfolio">
+</a>
+
+<a href="https://github.com/Rishab295">
+<img src="https://img.shields.io/badge/GitHub-Rishab295-black?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
 </p>
 
 ---
 
-## ⭐ Portfolio
+## ⭐ Thanks for Visiting
 
-Want to see my projects, skills, and work?
+Thanks for visiting my GitHub profile and exploring my work.
 
-### 👉 Visit my portfolio:
-
-**https://portfolioforrishab.netlify.app/**
-
----
+I'm continuously learning, building projects, and improving my skills in **Data Analytics, Data Science, Machine Learning, and AI**.
 
 <p align="center">
-  <i>Turning data into insights and ideas into practical solutions.</i>
+  <strong>Turning data into insights and ideas into practical solutions.</strong>
 </p>
 
 <p align="center">
   ⭐ Feel free to explore my repositories and connect with me!
 </p>
+```
+
+
+
+The `%20` represents the spaces in your filename, so GitHub can load the image correctly.
