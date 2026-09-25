@@ -1,10 +1,4 @@
-Absolutely. Based on your **current GitHub repository structure and the uploaded banner being in the root**, here is the complete `README.md`.
 
-**Important:** this version uses your current filename exactly, so you don't need to create an `assets` folder or rename anything.
-
-Copy-paste the entire thing into `README.md`:
-
-````markdown
 <p align="center">
   <img src="./Rishab%20Das%20-%20Data%20Analyst%20Portfolio.png" alt="Rishab Das - Data Analyst Portfolio" width="100%">
 </p>
