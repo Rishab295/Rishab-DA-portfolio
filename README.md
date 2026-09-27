@@ -321,4 +321,4 @@ I'm continuously learning, building projects, and improving my skills in **Data 
 
 
 
-The `%20` represents the spaces in your filename, so GitHub can load the image correctly.
+
