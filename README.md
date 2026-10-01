@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I'm a **Data Science graduate based in Pune, India**, passionate about working with data and building practical technology solutions.
 
